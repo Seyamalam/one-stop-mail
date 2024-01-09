@@ -20,8 +20,8 @@ body {
 
 
 #header img {
-    height: 100px; /* Adjust this value to change the height of the logo */
-    width: auto; /* This will keep the aspect ratio of the logo */
+    height: 100px;
+    width: auto;
 }
 
 #content {
@@ -37,16 +37,16 @@ body {
 ul {
     list-style-type: none;
     padding: 0;
-    font-size: 1.2em; /* Increase the font size */
-    font-weight: bold; /* Make the text bold */
+    font-size: 1.2em;
+    font-weight: bold;
 }
 
 ul li {
-    margin-bottom: 20px; /* Increase the space between list items */
-    padding: 10px; /* Add some padding */
-    background-color: #3b3b4f; /* Add a background color */
-    border-radius: 5px; /* Round the corners */
-    color: #d0d0d5; /* Change the text color */
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #3b3b4f;
+    border-radius: 5px;
+    color: #d0d0d5;
 }
 
 img {
@@ -59,7 +59,7 @@ img {
 #footer {
     text-align: center;
     padding: 10px;
-    background-color: #0a0a23; /* freeCodeCamp uses a dark green color for footer */
+    background-color: #0a0a23;
     color: white;
 }
 
@@ -70,5 +70,5 @@ img {
 }
 
 #content a {
-    color: #d0d0d5; /* This is the color of the rest of the content */
+    color: #d0d0d5;
 }
